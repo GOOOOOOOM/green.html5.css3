@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "green.html5.css3",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "film-festival"
+	}
+}
